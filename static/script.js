@@ -1,7 +1,2 @@
-var typed = new Typed(".text", {
-    strings: ["RPA Developer . . ." , "Automation Anywhere Developer . . ." ,"Ui Path Developer . . . ","Python Developer . . .","Web Developer . . ."],
-    typeSpeed: 70,
-    backSpeed: 50,
-    backDelay: 1000,
-    loop: true
-})
+// Typed is initialized dynamically from static/app.js based on resume.json.
+// This legacy initializer has been removed to avoid duplicate instances.
