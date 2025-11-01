@@ -1,0 +1,208 @@
+{
+  "personal": {
+    "name": "Vijay Chavda"
+  },
+  "hero": {
+    "typedStrings": [
+      "RPA Developer . . .",
+      "Automation Anywhere Developer . . .",
+      "Ui Path Developer . . . ",
+      "Python Developer . . .",
+      "Web Developer . . ."
+    ]
+  },
+  "coder": {
+    "name": "Vijay Chavda",
+    "skills": [
+      "Robotic Process Automation (RPA)",
+      "Automation Anywhere (A360)",
+      "UiPath",
+      "Python",
+      "Python Selenium",
+      "Django",
+      "MS SQL Server",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SAP Automation",
+      "Excel Automation",
+      "Web Automation",
+      "Document Automation",
+      "API Integration",
+      "Power BI"
+    ],
+    "hardWorker": true,
+    "quickLearner": true,
+    "problemSolver": true
+  },
+  "about": {
+    "summary": [
+      "My name is Vijay Chavda, and I’m a dedicated and passionate RPA Developer with over 3.6 years of experience in automating business processes using technologies like Automation Anywhere, UiPath, and Python. I’m a fast learner with a strong self-learning attitude and a deep interest in problem-solving and process optimization.",
+      "I enjoy working across the full stack of RPA development and web technologies, including Django, HTML, CSS, and JavaScript. I'm also skilled in creating data-driven insights with Power BI. I’m passionate about building automation that drives efficiency, saves time, and adds real business value.",
+      "I’m currently looking for new opportunities where I can apply my expertise, collaborate with innovative teams, and contribute to impactful automation solutions. If you're seeking someone with both technical skills and a problem-solving mindset — I’m ready to connect."
+    ]
+  },
+  "experiences": [
+    {
+      "role": "RPA Developer",
+      "company": "Adani Global Capability Center",
+      "location": "Ahmedabad, Gujarat",
+      "period": "May 2022 – Present",
+      "bullets": [
+        "Designed & deployed 12+ bots using Automation Anywhere A360",
+        "Automated AP, reconciliation, and SAP processes saving ₹60 crore",
+        "Created reusable components and led stakeholder training sessions",
+        "Collaborated on dashboarding via Power BI and web tools"
+      ]
+    },
+    {
+      "role": "RPA Intern",
+      "company": "ABEX – Adani Business Excellence",
+      "location": "Ahmedabad",
+      "period": "Jan 2022 – Apr 2022",
+      "bullets": [
+        "Created BRDs and supported migration from AA v11 to A360",
+        "Tested bots and improved performance via feedback loops",
+        "Automated invoice/data entry tasks, saving 20% manual effort"
+      ]
+    }
+  ],
+  "skills": [
+    { "name": "Automation Anywhere", "icon": "static/media/aa.png" },
+    { "name": "Ui Path", "icon": "static/media/Uipath.png" },
+    { "name": "Python", "icon": "static/media/Python.svg" },
+    { "name": "Sap Automation", "icon": "static/media/sap.svg" },
+    { "name": "Excel Macro", "icon": "static/media/Excelmacro.svg" },
+    { "name": "Vb Script", "icon": "static/media/vb.svg" },
+    { "name": "Web Automation", "icon": "static/media/web.svg" },
+    { "name": "Document Automation", "icon": "static/media/Doc.png" },
+    { "name": "API Integration", "icon": "static/media/api.png" },
+    { "name": "SQL Server", "icon": "static/media/sqlserver.svg" },
+    { "name": "Power BI", "icon": "static/media/icons8-power-bi-2021.svg" },
+    { "name": "Django", "icon": "static/media/icons8-django.svg" },
+    { "name": "Sqlite", "icon": "static/media/SQlite.svg" },
+    { "name": "MySQL", "icon": "static/media/mysql.svg" },
+    { "name": "HTML", "icon": "static/media/html.svg" },
+    { "name": "CSS", "icon": "static/media/css.svg" },
+    { "name": "Javascript", "icon": "static/media/javascript.svg" }
+  ],
+  "projects": [
+    {
+      "title": "Domestic Payment Processing",
+      "duration": "45 Days",
+      "role": "RPA Developer",
+      "teamSize": 3,
+      "tools": [
+        "Automation Anywhere (A360)",
+        "Python",
+        "Django",
+        "Excel Automation",
+        "SAP Automation",
+        "MS SQL Server",
+        "Power BI"
+      ],
+      "overview": "Successfully developed and deployed an end-to-end automated payment processing system that eliminated manual tasks, reduced errors, and ensured timely payments across various types, including auto, MSME, employee, insurance, and DEL payments.",
+      "contributions": [
+        "Developed and deployed RPA bots using Automation Anywhere A360 for end-to-end payment automation.",
+        "Automated critical pre-checking rules such as vendor blocking, user validation, net debit checks, tax amount verification, and more.",
+        "Automated payment proposal generation, debit-credit adjustments, and error handling.",
+        "Monitored bot performance, identified exceptions, and updated error logs in the SQL Server database.",
+        "Collaborated with a 3-member team: 2 developers on the Django web app and 1 team member for Power BI dashboards for real-time reporting."
+      ],
+      "achievements": [
+        "Achieved 6 FTE savings through successful automation of manual payment tasks.",
+        "Delivered the project successfully within 45 days, ensuring business continuity and compliance.",
+        "Reduced manual errors by 40% through automated validation rules."
+      ]
+    },
+    {
+      "title": "Duplicate Invoice Identification",
+      "duration": "60 Days",
+      "role": "RPA Developer",
+      "teamSize": 1,
+      "tools": [
+        "Ui Path",
+        "MS SQL Server",
+        "Excel Automation",
+        "SAP Automation",
+        "VB Script"
+      ],
+      "overview": "Automated the identification of potential duplicate invoices within SAP data to prevent fraud before payment processing, saving significant costs and reducing manual hours.",
+      "contributions": [
+        "Implemented an end-to-end solution for duplicate invoice identification using Ui Path.",
+        "Automated daily extraction of data from SAP ERP across 9 servers using transaction code FBL1N.",
+        "Consolidated data into Excel, added essential columns, and uploaded to MS SQL Server.",
+        "Applied advanced data cleansing and identified duplicates based on 13 unique combinations.",
+        "Generated files per combination and conducted same-day comparison with master-day data.",
+        "Eliminated manual errors and improved efficiency by automating a previously manual 2-hour process."
+      ],
+      "achievements": [
+        "60 CR saved in fraudulent payments by preventing potential duplicate invoices.",
+        "Reduced manual effort by automating the identification process, saving 2 hours daily.",
+        "Enhanced accuracy in invoice processing, preventing errors and fraud."
+      ]
+    },
+    {
+      "title": "Intercompany Reconciliation System (ICR Tool)",
+      "duration": "6 Month",
+      "role": "Solo Developer (RPA, Python, Power BI)",
+      "teamSize": 1,
+      "tools": [
+        "Automation Anywhere (A360)",
+        "Python",
+        "Django",
+        "Excel Automation",
+        "SAP Automation",
+        "MS SQL Server",
+        "Power BI"
+      ],
+      "overview": "Developed and deployed a comprehensive Intercompany Reconciliation System to automate and streamline the reconciliation process across multiple entities, minimizing manual intervention and enhancing financial accuracy.",
+      "contributions": [
+        "Designed an end-to-end reconciliation system with auto-matching (60%) and manual matching (40%).",
+        "Automated data extraction from SAP using Automation Anywhere (FBL1N and FBL5N) across 12 servers.",
+        "Developed a Django web portal with an HTML/CSS/JavaScript front end for manual reconciliation.",
+        "Built Power BI dashboards for real-time visibility of open items and reconciliation progress.",
+        "Implemented auto-reconciliation using 9 predefined matching rules, reducing manual time from 2-3 hours per day.",
+        "Automated generation of unique ICR numbers for new companies.",
+        "Ensured data consolidation and validation with SQL Server."
+      ],
+      "achievements": [
+        "Delivered within a 6-month timeline, covering design, discovery, testing, and deployment.",
+        "Achieved a 4 FTE savings by automating reconciliation processes.",
+        "Received Spot Recognition Award for successful implementation.",
+        "Reduced reconciliation period from 7-8 days to near real-time and enhanced financial transparency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "period": "2020 - 2022",
+      "degree": "Master of Computer Applications (MCA)",
+      "school": "Nirma University",
+      "score": "8.2 CGPA"
+    },
+    {
+      "period": "2017 - 2020",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "school": "Gujarat University",
+      "score": "7.8 CGPA"
+    },
+    {
+      "period": "2015 - 2017",
+      "degree": "Higher Secondary School (HSC)",
+      "school": "Durga Vidyalaya - GHSEB",
+      "score": "70.53%"
+    },
+    {
+      "period": "2014 - 2015",
+      "degree": "Secondary School (SSC)",
+      "school": "Durga Vidyalaya - GSEB",
+      "score": "68.00%"
+    }
+  ],
+  "contact": {
+    "email": "vijaychavdap@gmail.com",
+    "phone": "+91 9510104254",
+    "location": "Chandlodiya, Ahmedabad, Gujarat 382481"
+  }
+}
